@@ -1,2 +1,2 @@
 # angular4-basics
-Angular4 playground
+Angular4-Ionic3 playground
